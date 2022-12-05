@@ -7,6 +7,6 @@ notes , test info
 ## Topics ##
 
 * Recursion (Drawing Fractals) 
-  ** https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1208/lectures/fractals/Lecture10_Slides.pdf
+   ** https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1208/lectures/fractals/Lecture10_Slides.pdf
 
 * Graphics (JavaFX, Swing)
